@@ -7,8 +7,8 @@
 /* Avatar */
 
 .avatar-1BDn8e {
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
   	background: var(--Color003);
 	margin-left: 10px;
 }
@@ -16,9 +16,9 @@
 /* Text Spacing */
 
 .compact-T3H92H.wrapper-2a6GCs, .cozy-3raOZG.wrapper-2a6GCs {
-	padding-left: 110px;
-    padding-top: .600rem;
-    padding-bottom: .600rem;
+	padding-left: 100px;
+    padding-top: .350rem;
+    padding-bottom: .350rem;
 }
 
 
