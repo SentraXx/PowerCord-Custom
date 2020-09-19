@@ -25,7 +25,7 @@
 /* Text Align */
 
 .cozy-3raOZG .messageContent-2qWWxC {
-	font-family: var(--font);
+	font-family: var('Oxygen');
     text-align: left;
 	margin-left: -72px;
     padding-left: 72px;
